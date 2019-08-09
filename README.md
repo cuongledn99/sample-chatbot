@@ -1,3 +1,4 @@
-# my-frame
-this is my own express frame with a bunch of tool
+
 # sample-chatbot
+This is a simple Facebook Chatbot, using "dialogflow" to support reply message
+Powered by: https://dialogflow.com/
